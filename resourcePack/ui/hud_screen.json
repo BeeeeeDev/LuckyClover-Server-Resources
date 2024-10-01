@@ -1,9 +1,7 @@
 {
     "label": {
   	"type": "label",
-  	"text": "test",
-  	"font_type": "unicode",
-	"anchor_from": "top_left"
+  	"text": "§aLucky§bClover\n§e禁止搞破坏\n§e使用§b+cd§e打开菜单\n§r腐竹是§eDreamXbox1961\n有问题可以找§bBeeeee\n§e服务器官网\n§rpro.luckyclover.us.kg"
 	},
 	"root_panel": {
   	"modifications": [
@@ -13,7 +11,7 @@
       	"value": [
         	{
                 "test@label": {
-					"anchor_from": "top_left"
+					"offset": [-150,-100]
                 }
             }
       	]
