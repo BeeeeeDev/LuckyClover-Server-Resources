@@ -4,7 +4,7 @@
     "name": "luckyclover",
     "description": "by Beeeee",
     "uuid": "dbff4afb-04b9-4258-936f-5c63c1dd0e39",
-    "version": [1,0,2],
+    "version": [1,1,4],
     "min_engine_version": [1,21,30]
   },
   "modules": [
